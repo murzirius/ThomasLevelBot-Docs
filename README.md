@@ -1,5 +1,5 @@
 # ThomasLevelBot-Docs
 
-## 🧭 Навигация
+## 🧭 Навигация - https://github.com/murzirius/ThomasLevelBot-Docs/wiki
 
-## 🐞 Сообщить об ошибке
+## 🐞 Сообщить об ошибке - https://github.com/murzirius/ThomasLevelBot-Docs/issues
